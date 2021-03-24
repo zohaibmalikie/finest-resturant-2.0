@@ -47,10 +47,10 @@
             <div class="container">
               <div class="topbar-left">
                 <div class="topbar-content">
-                  <div class="item"> 
+                  <div class="item">
                     <div class="wg-contact"><i class="fa fa-map-marker"></i><span>35 Bexley Road Erith DAB 1SH</span></div>
                   </div>
-                  <div class="item"> 
+                  <div class="item">
                     <div class="wg-contact"><i class="fa fa-phone"></i><span>01322334886</span></div>
                   </div>
                 </div>
@@ -115,7 +115,7 @@
                 <div class="close-offcanvas-wrapper"><span class="close-offcanvas">x</span></div>
                 <div class="main-nav">
                   <ul id="main-nav" class="nav nav-pills">
-                    <li class="dropdown current-menu-item"><a href="{{url('index')}}" class="dropdown-toggle">Home</a><i class="fa fa-angle-down btn-open-dropdown"></i>
+                    <li class="dropdown {{Request::is('index')? 'current-menu-item':''}} "><a href="{{url('index')}}" class="dropdown-toggle">Home</a><i class="fa fa-angle-down btn-open-dropdown"></i>
                       <!-- <ul class="dropdown-menu">
                         <li><a href="index.php">Home 1</a></li>
                         <li><a href="homepage2.php">Home 2</a></li>
@@ -127,10 +127,10 @@
                         <li><a href="home-boxed.php">Home Boxed</a></li>
                       </ul> -->
                     </li>
-                    <li><a href="{{url('about')}}">About</a></li>
+                    <li class=" {{Request::is('about')? 'current-menu-item':''}}"><a href="{{url('about')}}">About</a></li>
                     <!-- <li><a href="reservation.php">Reservation</a></li> -->
-                    <li class="dropdown"><a href="{{url('menu')}}" class="dropdown-toggle">
-                         
+                    <li class="dropdown {{Request::is('menu')? 'current-menu-item':''}}"><a href="{{url('menu')}}" class="dropdown-toggle">
+
                         Menu</a><i class="fa fa-angle-down btn-open-dropdown"></i>
                       <!-- <ul class="dropdown-menu">
                         <li><a href="menu-classic.php">Menu Classic</a></li>
@@ -149,7 +149,7 @@
                         <li><a href="page-404.php">404 Page</a></li>
                       </ul>
                     </li> -->
-                    <li><a href="{{url('contact')}}">Contact</a></li>
+                    <li class="{{Request::is('contact')? 'current-menu-item':''}}"><a href="{{url('contact')}}">Contact</a></li>
                   </ul>
                 </div>
               </nav>
@@ -209,14 +209,14 @@
                             <div class="info-icon"><i class="fa fa-mobile-phone"></i></div>
                             <div class="info-content">
                               <p class="m-0">01322334886</p>
-                           
+
                             </div>
                           </div>
                           <div class="email-info d-flexAlignItemsCenter">
                             <div class="info-icon"><i class="fa fa-envelope"></i></div>
                             <div class="info-content">
                               <p class="m-0">finestkebabandchicken@gmail.com</p>
-                         
+
                             </div>
                           </div>
                         </div>

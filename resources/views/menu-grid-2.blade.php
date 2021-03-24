@@ -165,7 +165,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="row">
+                                    <div class="row secondTitle">
                                         <div class="container">
                                             <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12"></div>
                                             <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
@@ -291,7 +291,7 @@
 
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portion1-of-chicken-doner-meat.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i

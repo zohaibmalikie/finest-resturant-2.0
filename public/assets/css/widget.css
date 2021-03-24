@@ -20,6 +20,10 @@ This file include css code for widget, element in sidebar and footer
     width: 100%;
 }
 
+.secondTitle {
+    padding-top: 12px;
+}
+
 .swin-media .content-left {
     display: table-cell;
     vertical-align: top;

@@ -19,7 +19,7 @@
                   </div>
                 </div>
               </div>
-              <div class="slide-bg"><img src="assets/images/slider/shop-slider4.jpg" alt="" class="img img-responsive"></div>
+              <div class="slide-bg"><img src="{{asset('assets/images/slider/shop-slider4.jpg')}}" alt="" class="img img-responsive"></div>
             </div>
             <div class="slides">
               <div class="slide-content slide-layout-01">
@@ -35,7 +35,7 @@
                   </div>
                 </div>
               </div>
-              <div class="slide-bg"><img src="assets/images/slider/shop-slider5.jpg" alt="" class="img img-responsive"></div>
+              <div class="slide-bg"><img src="{{asset('assets/images/slider/shop-slider5.jpg')}}" alt="" class="img img-responsive"></div>
             </div>
           </div>
           <div class="page-content-wrapper">
@@ -83,7 +83,7 @@
                       <div class="row">
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2a.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2a.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -100,7 +100,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2b.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2b.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>5.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -117,7 +117,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2c.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2c.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>20.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -134,7 +134,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2e.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2e.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>45.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -151,7 +151,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2f.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2f.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>15.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -168,7 +168,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2d.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2d.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>30.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -185,7 +185,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2a.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2a.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -202,7 +202,7 @@
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2b.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2b.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>5.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -227,7 +227,7 @@
                   <div class="row">
                     <div class="col-md-6 col-xs-12">
                       <div class="swin-sc swin-sc-banner item">
-                        <div class="banner-featured-img"><img src="assets/images/banner-img-1.jpg" alt="fooday" class="img img-responsive">
+                        <div class="banner-featured-img"><img src="{{asset('assets/images/banner-img-1.jpg')}}" alt="fooday" class="img img-responsive">
                           <div class="banner-content">
                             <div class="banner-title">HONEY CAKE</div>
                             <div class="banner-subtitle">NEW DISHES THIS WEEK</div><a href="#" class="swin-btn"><span>Read More</span></a>
@@ -237,7 +237,7 @@
                     </div>
                     <div class="col-md-6 col-xs-12">
                       <div class="swin-sc swin-sc-banner right item">
-                        <div class="banner-featured-img"><img src="assets/images/banner-img-2.jpg" alt="fooday" class="img img-responsive">
+                        <div class="banner-featured-img"><img src="{{asset('assets/images/banner-img-2.jpg')}}" alt="fooday" class="img img-responsive">
                           <div class="banner-content">
                             <div class="banner-title">HAM STORY</div>
                             <div class="banner-subtitle">OUR HANDMADE PRODUCTS</div><a href="#" class="swin-btn"><span>Read More</span></a>
@@ -259,7 +259,7 @@
                       <div class="row slick-padding">
                         <div class="col-md-4 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2e.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2e.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>45.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -276,7 +276,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2f.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2f.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>15.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -293,7 +293,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2d.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2d.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>30.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -310,7 +310,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2f.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2f.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>15.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -327,7 +327,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2a.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2a.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>
@@ -344,7 +344,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
                           <div class="blog-item item swin-transition">
-                            <div class="block-img"><img src="assets/images/product/product-2b.jpg" alt="" class="img img-responsive">
+                            <div class="block-img"><img src="{{asset('assets/images/product/product-2b.jpg')}}" alt="" class="img img-responsive">
                               <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>5.0</span></div>
                               <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                             </div>

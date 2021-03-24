@@ -420,8 +420,3 @@
     <script src="assets/js/widget.js"></script>
   </body>
 </html>
-<script>
-
-
-
-</script>

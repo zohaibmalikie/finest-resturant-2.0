@@ -13,7 +13,8 @@
                     data--120-top="transform: translateY(-30px);opacity:0;" data-anchor-target=".page-title"
                     class="title">Menu</div>
                 <div data-top="opacity:1;" data--120-top="opacity:0;" data-anchor-target=".page-title" class="divider">
-                    <span class="line-before"></span><span class="dot"></span><span class="line-after"></span></div>
+                    <span class="line-before"></span><span class="dot"></span><span class="line-after"></span>
+                </div>
                 <div data-top="transform: translateY(0px);opacity:1;" data--20-top="transform: translateY(5px);"
                     data--50-top="transform: translateY(15px);opacity:0.8;"
                     data--120-top="transform: translateY(30px);opacity:0;" data-anchor-target=".page-title"
@@ -78,7 +79,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src=" {{asset('assets/images/menu-images/LambDoner.jpg')}} "
+                                                <div class="block-img"><img
+                                                        src=" {{asset('assets/images/menu-images/LambDoner.jpg')}} "
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -152,7 +154,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Mixed-Kebab.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Mixed-Kebab.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -178,7 +181,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Lamb-shish-and-chicken-shish.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Lamb-shish-and-chicken-shish.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -277,7 +281,8 @@
 
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionof-Meat.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Portionof-Meat.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -291,7 +296,8 @@
 
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portion1-of-chicken-doner-meat.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Portion1-of-chicken-doner-meat.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -324,7 +330,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/FullPeriPeri-Chicken(meal-with-2sides2drinks)-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/FullPeriPeri-Chicken(meal-with-2sides2drinks)-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -337,7 +344,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/6PeriPeriWings.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/6PeriPeriWings.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -350,7 +358,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/5PeriPerichicken-Strips.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/5PeriPerichicken-Strips.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -363,7 +372,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/PeriPeriRiceBox-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/PeriPeriRiceBox-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -377,7 +387,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Family-Deal-1.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Family-Deal-1.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -393,7 +404,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Family-Deal-2.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Family-Deal-2.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -478,7 +490,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/2-Pcs-Chicken.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/2-Pcs-Chicken.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -492,7 +505,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/3-PcsChicken-Meal-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/3-PcsChicken-Meal-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -506,7 +520,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/6-Wings-Meal-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/6-Wings-Meal-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -520,7 +535,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/VarietyMeal.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/VarietyMeal.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -534,7 +550,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/MiniBucket-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/MiniBucket-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -547,7 +564,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Fillet-RiceBox-100(2).jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Fillet-RiceBox-100(2).jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -564,7 +582,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/FilletSaladBox-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/FilletSaladBox-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -578,7 +597,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Family-Bucket-6-pcs.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Family-Bucket-6-pcs.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -591,7 +611,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Family-Bucket-10-pcs.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Family-Bucket-10-pcs.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -604,7 +625,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Boneless-Bucket.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Boneless-Bucket.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -618,7 +640,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/FamilyMegaMix-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/FamilyMegaMix-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -632,7 +655,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Family-Treat.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Family-Treat.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -649,7 +673,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/2-Pcs-Chicken100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/2-Pcs-Chicken100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -662,7 +687,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/3-pcs-Chicken.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/3-pcs-Chicken.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -675,7 +701,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/5pcs-Chicken-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/5pcs-Chicken-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -688,7 +715,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/8-pcs-Chicken100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/8-pcs-Chicken100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -701,7 +729,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/3-Chicken-Strips.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/3-Chicken-Strips.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -714,7 +743,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/4-Chicken-Strips-.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/4-Chicken-Strips-.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -727,7 +757,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/6-Hot-Wings.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/6-Hot-Wings.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -740,7 +771,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/10-Hot-Wings.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/10-Hot-Wings.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -753,7 +785,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/20-Hot-Wings.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/20-Hot-Wings.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -770,7 +803,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Mega-Fillet-Burger-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Mega-Fillet-Burger-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -783,7 +817,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Quarter-Pounder-Burger-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Quarter-Pounder-Burger-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -796,7 +831,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Half-Pounder-Burger.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Half-Pounder-Burger.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -809,7 +845,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Mega-peri-peri-burgers-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Mega-peri-peri-burgers-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -822,7 +859,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/VeggieBurger-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/VeggieBurger-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -835,7 +873,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/CheeseBurger-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/CheeseBurger-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -851,7 +890,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Mini-Fillet-Burger-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Mini-Fillet-Burger-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -933,7 +973,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/ChickenDoner-Wrap-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -946,7 +987,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/LambDonerWraps-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -959,7 +1001,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Chicken-Shish-Wrap.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -972,7 +1015,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Lamb-Shish-Wrap.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -985,7 +1029,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/KofteWraps-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -998,7 +1043,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Chickenfillet-Wraps-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1014,7 +1060,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/PeriPeriChicken-Wraps-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1027,7 +1074,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/VeggieWrap-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1038,65 +1086,46 @@
                                                         class="price-symbol">£</span>5.50</span>
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01l.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Frish Cheese Chip</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>25.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01b.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Grandpa's Country Fried</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>30.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01f.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Frish Cheese Chip</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>25.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
+                                        <!-- <div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="{{asset('assets/images/menu-images/Chickenfillet-Wraps-100.jpg')}}" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Frish Cheese Chip</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span>
+</div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="{{asset('assets/images/menu-images/Chickenfillet-Wraps-100.jpg')}}" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Grandpa's Country Fried</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>30.0</span>
+</div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="{{asset('assets/images/menu-images/Chickenfillet-Wraps-100.jpg')}}" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Frish Cheese Chip</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span>
+</div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="{{asset('assets/images/menu-images/Chickenfillet-Wraps-100.jpg')}}" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Uncle Herschel's Favorite</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>27.0</span>
+</div>
+</div> -->
                                     </div>
                                 </div>
                                 <div class="item-slick">
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Kids4Nuggets-sideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1109,7 +1138,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/SmallPopcorn-chicken,sideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1122,7 +1152,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Cheeseburger-sideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1135,7 +1166,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Steakburger-withsideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1146,120 +1178,32 @@
                                                         class="price-symbol">£</span>4.50</span>
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01l.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Kofte Wrap</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>7.50</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01l.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Chicken Fillet Wrap</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>4.50</span>
-                                            </div>
-                                        </div>
+                                        <!-- <div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01l.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Kofte Wrap</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">£</span>7.50</span>
+</div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01l.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Chicken Fillet Wrap</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">£</span>4.50</span>
+</div>
+</div> -->
 
                                     </div>
-                                    <div class="row">
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01l.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Peri Peri Chicken Wrap </h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>5.50</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01l.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Veggie Wrap</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>5.50</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01l.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Frish Cheese Chip</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>25.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01b.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Grandpa's Country Fried</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>30.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01f.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Frish Cheese Chip</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>25.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
                                 <div class="item-slick">
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Popcorn-Chicken-Regular.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Popcorn-Chicken-Regular.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1272,7 +1216,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/PopcornChickenLarge-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/PopcornChickenLarge-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1285,7 +1230,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/PotatoWedges-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/PotatoWedges-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1298,7 +1244,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/6BBQWings-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/6BBQWings-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1311,7 +1258,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/PittaBread-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/PittaBread-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1324,7 +1272,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/OnionRings10-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/OnionRings10-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1340,7 +1289,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Large-Chips-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Large-Chips-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1353,7 +1303,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Chips-in-Pitta-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Chips-in-Pitta-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1366,7 +1317,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Chips-in-pitta-with-cheese-or-salad -100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Chips-in-pitta-with-cheese-or-salad -100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1379,7 +1331,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/BoxofSalad-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/BoxofSalad-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1392,7 +1345,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/ChickenNuggets (7)-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/ChickenNuggets (7)-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1405,7 +1359,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/SauceinPot -100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/SauceinPot -100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1422,170 +1377,86 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Kids4Nuggets-sideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
                                                                 class="fa fa-shopping-basket"></i></a></div>
                                                 </div>
-                                                <h5 class="title">Rice</h5><span
+                                                <h5 class="title">Kids 4 Nuggets, side and drink</h5><span
                                                     class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>2.00</span>
+                                                        class="price-symbol">£</span>4.50</span>
                                             </div>
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/SmallPopcorn-chicken,sideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
                                                                 class="fa fa-shopping-basket"></i></a></div>
                                                 </div>
-                                                <h5 class="title">Coleslaw</h5><span
+                                                <h5 class="title">Small Popcorn chicken, side and drink</h5><span
                                                     class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>2.00</span>
+                                                        class="price-symbol">£</span>4.50</span>
                                             </div>
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Cheeseburger-sideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
                                                                 class="fa fa-shopping-basket"></i></a></div>
                                                 </div>
-                                                <h5 class="title">BBQ Beans</h5><span
+                                                <h5 class="title">Cheese burger, side and drink</h5><span
                                                     class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>2.00</span>
+                                                        class="price-symbol">£</span>4.50</span>
                                             </div>
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Steakburger-withsideanddrink-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
                                                                 class="fa fa-shopping-basket"></i></a></div>
                                                 </div>
-                                                <h5 class="title">Small Chips</h5><span
+                                                <h5 class="title">Steak burger with side and drink</h5><span
                                                     class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">£</span>2.00</span>
+                                                        class="price-symbol">£</span>4.50</span>
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
+                                        <!-- <div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01l.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Kofte Wrap</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">£</span>7.50</span>
+</div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01l.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Chicken Fillet Wrap</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">£</span>4.50</span>
+</div>
+</div> -->
 
                                     </div>
-                                    <div class="row">
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
                                 <div class="item-slick">
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/ChocolateFudge-Cake-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1598,7 +1469,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/StrawberryCheese-Cake-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1611,7 +1483,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Portionofchicken donermeat-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Ben-&-Jerrys.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1622,133 +1495,40 @@
                                                         class="price-symbol">£</span>6.50</span>
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
+                                        <!-- <div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01d.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Uncle Herschel's Favorite</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>27.0</span>
+</div>
+</div> -->
+                                        <!-- <div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01d.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Uncle Herschel's Favorite</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>27.0</span>
+</div>
+</div>
+<div class="col-md-2 col-sm-4 col-xs-12">
+<div class="item product-01">
+<div class="block-img"><img src="assets/images/product/product-01d.jpg" alt="">
+<div class="group-btn"><a href="#" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
+</div>
+<h5 class="title">Uncle Herschel's Favorite</h5><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>27.0</span>
+</div>
+</div> -->
 
                                     </div>
-                                    <div class="row">
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-2 col-sm-4 col-xs-12">
-                                            <div class="item product-01">
-                                                <div class="block-img"><img src="assets/images/product/product-01d.jpg"
-                                                        alt="">
-                                                    <div class="group-btn"><a href="#"
-                                                            class="swin-btn btn-add-to-card"><i
-                                                                class="fa fa-shopping-basket"></i></a></div>
-                                                </div>
-                                                <h5 class="title">Uncle Herschel's Favorite</h5><span
-                                                    class="price woocommerce-Price-amount amount"><span
-                                                        class="price-symbol">$</span>27.0</span>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
                                 <div class="item-slick">
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Pepsi-0.33L.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Pepsi-0.33L.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1761,7 +1541,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Pepsidiet0.33L _1-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Pepsidiet0.33L _1-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1774,7 +1555,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/7Up0.33L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/7Up0.33L-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1787,7 +1569,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/MirindaStrawbery 0.33L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/MirindaStrawbery 0.33L-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1800,7 +1583,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/TangoOrange 0.33L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/TangoOrange 0.33L-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1813,7 +1597,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Dr.Pepper0.33L -100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Dr.Pepper0.33L -100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1829,7 +1614,8 @@
                                     <div class="row">
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Coke0.33L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Coke0.33L-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1843,7 +1629,8 @@
 
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/DietCoke0.33L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/DietCoke0.33L-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1856,7 +1643,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Pepsi1.5L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Pepsi1.5L-100.jpg')}}"
                                                         alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1869,7 +1657,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Pepsidiet1.5L-100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Pepsidiet1.5L-100.jpg')}}"
                                                         style="height: 80px; width: 120px;" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
@@ -1882,8 +1671,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/Cock.jpg')}}"
-                                                        alt="">
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/Cock.jpg')}}" alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i
                                                                 class="fa fa-shopping-basket"></i></a></div>
@@ -1895,7 +1684,8 @@
                                         </div>
                                         <div class="col-md-2 col-sm-4 col-xs-12">
                                             <div class="item product-01">
-                                                <div class="block-img"><img src="{{asset('assets/images/menu-images/DietCoke1.5L -100.jpg')}}"
+                                                <div class="block-img"><img
+                                                        src="{{asset('assets/images/menu-images/DietCoke1.5L -100.jpg')}}"
                                                         alt="">
                                                     <div class="group-btn"><a href="#"
                                                             class="swin-btn btn-add-to-card"><i

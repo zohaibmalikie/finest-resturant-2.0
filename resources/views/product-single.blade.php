@@ -26,20 +26,20 @@
                       <div class="product-featured-image">
                         <div class="main-slider">
                           <div class="slides">
-                            <div class="featured-image-item"><img src="assets/images/product/product-full-02.jpg" alt="fooday" class="img img-responsive"></div>
-                            <div class="featured-image-item"><img src="assets/images/product/product-full-03.jpg" alt="fooday" class="img img-responsive"></div>
-                            <div class="featured-image-item"><img src="assets/images/product/product-full-04.jpg" alt="fooday" class="img img-responsive"></div>
-                            <div class="featured-image-item"><img src="assets/images/product/product-full-02.jpg" alt="fooday" class="img img-responsive"></div>
-                            <div class="featured-image-item"><img src="assets/images/product/product-full-03.jpg" alt="fooday" class="img img-responsive"></div>
+                            <div class="featured-image-item"><img src="{{asset('assets/images/product/product-thumb-02.jpg')}}" alt="fooday" class="img img-responsive"></div>
+                            <div class="featured-image-item"><img src="{{asset('assets/images/product/product-thumb-03.jpg')}}" alt="fooday" class="img img-responsive"></div>
+                            <div class="featured-image-item"><img src="{{asset('assets/images/product/product-thumb-04.jpg')}}" alt="fooday" class="img img-responsive"></div>
+                            <div class="featured-image-item"><img src="{{asset('assets/images/product/product-thumb-02.jpg')}}" alt="fooday" class="img img-responsive"></div>
+                            <div class="featured-image-item"><img src="{{asset('assets/images/product/product-thumb-03.jpg')}}" alt="fooday" class="img img-responsive"></div>
                           </div>
                         </div>
                         <div data-width="150" class="nav-slider">
                           <ul class="slides list-inline">
-                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="assets/images/product/product-thumb-02.jpg" alt="fooday" class="img img-responsive swin-transition"></a></li>
-                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="assets/images/product/product-thumb-03.jpg" alt="fooday" class="img img-responsive swin-transition"></a></li>
-                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="assets/images/product/product-thumb-04.jpg" alt="fooday" class="img img-responsive swin-transition"></a></li>
-                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="assets/images/product/product-thumb-02.jpg" alt="fooday" class="img img-responsive swin-transition"></a></li>
-                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="assets/images/product/product-thumb-03.jpg" alt="fooday" class="img img-responsive swin-transition"></a></li>
+                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="{{asset('assets/images/product/product-thumb-02.jpg')}}" alt="fooday" class="img img-responsive swin-transition"></a></li>
+                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="{{asset('assets/images/product/product-thumb-03.jpg')}}" alt="fooday" class="img img-responsive swin-transition"></a></li>
+                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="{{asset('assets/images/product/product-thumb-04.jpg')}}" alt="fooday" class="img img-responsive swin-transition"></a></li>
+                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="{{asset('assets/images/product/product-thumb-02.jpg')}}" alt="fooday" class="img img-responsive swin-transition"></a></li>
+                            <li class="swin-transition thumbnail-image-item"><a href="javascript:void(0)" class="testimonial-nav-item"><img src="{{asset('assets/images/product/product-thumb-03.jpg')}}" alt="fooday" class="img img-responsive swin-transition"></a></li>
                           </ul>
                         </div>
                       </div>
@@ -124,7 +124,7 @@
                                   </div>
                                 </li>
                                 <li>
-                                  <div class="comment_container"><img src="assets/images/blog/blog-comment-avatar03.jpg" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default">
+                                  <div class="comment_container"><img src="{{asset('assets/images/blog/blog-comment-avatar03.jpg')}}" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default">
                                     <div class="comment-text">
                                       <div class="star-rating"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
                                       <p class="meta"><strong itemprop="author">Kelvin</strong> –
@@ -152,7 +152,7 @@
                 <div class="swin-sc swin-sc-product products-02 carousel-01 woocommerce">
                   <div class="products nav-slider">
                     <div class="blog-item item swin-transition">
-                      <div class="block-img"><img src="assets/images/product/product-2a.jpg" alt="" class="img img-responsive">
+                      <div class="block-img"><img src="{{asset('assets/images/product/product-2a.jpg')}}" alt="" class="img img-responsive">
                         <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span></div>
                         <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-link"><i class="icons fa fa-link"></i></a><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                       </div>
@@ -165,7 +165,7 @@
                       </div>
                     </div>
                     <div class="blog-item item swin-transition">
-                      <div class="block-img"><img src="assets/images/product/product-2b.jpg" alt="" class="img img-responsive">
+                      <div class="block-img"><img src="{{asset('assets/images/product/product-2b.jpg')}}" alt="" class="img img-responsive">
                         <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>5.0</span></div>
                         <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-link"><i class="icons fa fa-link"></i></a><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                       </div>
@@ -178,7 +178,7 @@
                       </div>
                     </div>
                     <div class="blog-item item swin-transition">
-                      <div class="block-img"><img src="assets/images/product/product-2c.jpg" alt="" class="img img-responsive">
+                      <div class="block-img"><img src="{{asset('assets/images/product/product-2c.jpg')}}" alt="" class="img img-responsive">
                         <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>20.0</span></div>
                         <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-link"><i class="icons fa fa-link"></i></a><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                       </div>
@@ -191,7 +191,7 @@
                       </div>
                     </div>
                     <div class="blog-item item swin-transition">
-                      <div class="block-img"><img src="assets/images/product/product-2e.jpg" alt="" class="img img-responsive">
+                      <div class="block-img"><img src="{{asset('assets/images/product/product-2e.jpg')}}" alt="" class="img img-responsive">
                         <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>45.0</span></div>
                         <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-link"><i class="icons fa fa-link"></i></a><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                       </div>
@@ -204,7 +204,7 @@
                       </div>
                     </div>
                     <div class="blog-item item swin-transition">
-                      <div class="block-img"><img src="assets/images/product/product-2f.jpg" alt="" class="img img-responsive">
+                      <div class="block-img"><img src="{{asset('assets/images/product/product-2f.jpg')}}" alt="" class="img img-responsive">
                         <div class="block-circle price-wrapper"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>15.0</span></div>
                         <div class="group-btn"><a href="javascript:void(0)" class="swin-btn btn-link"><i class="icons fa fa-link"></i></a><a href="javascript:void(0)" class="swin-btn btn-add-to-card"><i class="fa fa-shopping-basket"></i></a></div>
                       </div>

@@ -8,7 +8,7 @@
             <div data-parallax="scroll" data-image-src="assets/images/slider/slider2-bg1.jpg" class="slides parallax-window">
               <div class="slide-content slide-layout-02">
                 <div class="container">
-                  <div class="slide-content-inner"><img src="assets/images/slider/slider2-icon.png" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="fooday" class="slide-icon img img-responsive animated">
+                  <div class="slide-content-inner"><img src="{{asset('assets/images/slider/slider2-icon.png')}}" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="fooday" class="slide-icon img img-responsive animated">
                     <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">FOODAY RESTAURANT</h3>
                     <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1500" class="slide-sub-title animated"><span class="line-before"></span><span class="line-after"></span><span class="text"><span>Tasty</span><span>Delicious</span><span>Savoury</span></span></p>
                   </div>
@@ -20,7 +20,7 @@
             <section class="about-us-session padding-top-100 padding-bottom-100">
               <div class="container">
                 <div class="row">
-                  <div class="col-md-6 colsm-12"><img src="assets/images/pages/home1-about.jpg" alt="" class="img img-responsive wow zoomIn"></div>
+                  <div class="col-md-6 colsm-12"><img src="{{asset('assets/images/pages/home1-about.jpg')}}" alt="" class="img img-responsive wow zoomIn"></div>
                   <div class="col-md-6 col-sm-12">
                     <div class="swin-sc swin-sc-title style-4 margin-bottom-20 margin-top-50">
                       <p class="top-title"><span>Discover</span></p>
@@ -33,7 +33,7 @@
                 </div>
               </div>
             </section>
-            <section class="product-sesction-03-1 padding-top-100 padding-bottom-100"><img src="assets/images/product/product-decorate.jpg" alt="" class="img-responsive img-decorate">
+            <section class="product-sesction-03-1 padding-top-100 padding-bottom-100"><img src="{{asset('assets/images/product/product-decorate.jpg')}}" alt="" class="img-responsive img-decorate">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-6 col-md-4"></div>
@@ -47,7 +47,7 @@
                         <div class="col-md-12">
                           <div data-height="200" class="products nav-slider">
                             <div class="item product-01">
-                              <div class="item-left"><img src="assets/images/product/product-2a.jpg" alt="" class="img img-responsive">
+                              <div class="item-left"><img src="{{asset('assets/images/product/product-2a.jpg')}}" alt="" class="img img-responsive">
                                 <div class="content-wrapper"><a class="title">The Cracker Barrel's Country Boy Breakfast</a>
                                   <div class="dot">.....................................................................</div>
                                   <div class="des">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </div>
@@ -56,7 +56,7 @@
                               <div class="item-right"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>25.0</span></div>
                             </div>
                             <div class="item product-01">
-                              <div class="item-left"><img src="assets/images/product/product-2b.jpg" alt="" class="img img-responsive">
+                              <div class="item-left"><img src="{{asset('assets/images/product/product-2b.jpg')}}" alt="" class="img img-responsive">
                                 <div class="content-wrapper"><a class="title">Uncle Herschel's Favorite </a>
                                   <div class="dot">.....................................................................</div>
                                   <div class="des">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </div>
@@ -65,7 +65,7 @@
                               <div class="item-right"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>45.0</span></div>
                             </div>
                             <div class="item product-01">
-                              <div class="item-left"><img src="assets/images/product/product-2c.jpg" alt="" class="img img-responsive">
+                              <div class="item-left"><img src="{{asset('assets/images/product/product-2c.jpg')}}" alt="" class="img img-responsive">
                                 <div class="content-wrapper"><a class="title">Grandpa's Country Fried Breakfast </a>
                                   <div class="dot">.....................................................................</div>
                                   <div class="des">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </div>
@@ -74,7 +74,7 @@
                               <div class="item-right"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>30.0</span></div>
                             </div>
                             <div class="item product-01">
-                              <div class="item-left"><img src="assets/images/product/product-2d.jpg" alt="" class="img img-responsive">
+                              <div class="item-left"><img src="{{asset('assets/images/product/product-2d.jpg')}}" alt="" class="img img-responsive">
                                 <div class="content-wrapper"><a class="title">Chinese Chicken Bread Spicy Soup</a>
                                   <div class="dot">.....................................................................</div>
                                   <div class="des">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </div>
@@ -83,7 +83,7 @@
                               <div class="item-right"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>12.0</span></div>
                             </div>
                             <div class="item product-01">
-                              <div class="item-left"><img src="assets/images/product/product-2b.jpg" alt="" class="img img-responsive">
+                              <div class="item-left"><img src="{{asset('assets/images/product/product-2b.jpg')}}" alt="" class="img img-responsive">
                                 <div class="content-wrapper"><a class="title">Uncle Herschel's Favorite </a>
                                   <div class="dot">.....................................................................</div>
                                   <div class="des">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </div>
@@ -92,7 +92,7 @@
                               <div class="item-right"><span class="price woocommerce-Price-amount amount"><span class="price-symbol">$</span>45.0</span></div>
                             </div>
                             <div class="item product-01">
-                              <div class="item-left"><img src="assets/images/product/product-2a.jpg" alt="" class="img img-responsive">
+                              <div class="item-left"><img src="{{asset('assets/images/product/product-2a.jpg')}}" alt="" class="img img-responsive">
                                 <div class="content-wrapper"><a class="title">The Cracker Barrel's Country Boy Breakfast</a>
                                   <div class="dot">.....................................................................</div>
                                   <div class="des">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </div>
@@ -150,7 +150,7 @@
                           <div class="tab-content">
                             <div class="col-md-5 col-sm-12">
                               <div class="cat-wrapper">
-                                <div class="item"><img src="assets/images/product/pd-cat-dessert.png" alt="" class="img img-responsive img-full"></div>
+                                <div class="item"><img src="{{asset('assets/images/product/pd-cat-dessert.png')}}" alt="" class="img img-responsive img-full"></div>
                               </div>
                             </div>
                             <div class="col-md-7 col-sm-12">
@@ -196,7 +196,7 @@
                           <div class="tab-content">
                             <div class="col-md-5 col-sm-12">
                               <div class="cat-wrapper">
-                                <div class="item"><img src="assets/images/product/pd-cat-lunch.png" alt="" class="img img-responsive img-full"></div>
+                                <div class="item"><img src="{{asset('assets/images/product/pd-cat-lunch.png')}}" alt="" class="img img-responsive img-full"></div>
                               </div>
                             </div>
                             <div class="col-md-7 col-sm-12">
@@ -242,7 +242,7 @@
                           <div class="tab-content">
                             <div class="col-md-5 col-sm-12">
                               <div class="cat-wrapper">
-                                <div class="item"><img src="assets/images/product/pd-cat-dinner.png" alt="" class="img img-responsive img-full"></div>
+                                <div class="item"><img src="{{asset('assets/images/product/pd-cat-dinner.png')}}" alt="" class="img img-responsive img-full"></div>
                               </div>
                             </div>
                             <div class="col-md-7 col-sm-12">
@@ -289,7 +289,7 @@
                           <div class="tab-content">
                             <div class="col-md-5 col-sm-12">
                               <div class="cat-wrapper">
-                                <div class="item"><img src="assets/images/product/pd-cat-dessert.png" alt="" class="img img-responsive img-full"></div>
+                                <div class="item"><img src="{{asset('assets/images/product/pd-cat-dessert.png')}}" alt="" class="img img-responsive img-full"></div>
                               </div>
                             </div>
                             <div class="col-md-7 col-sm-12">
@@ -335,7 +335,7 @@
                           <div class="tab-content">
                             <div class="col-md-5 col-sm-12">
                               <div class="cat-wrapper">
-                                <div class="item"><img src="assets/images/product/pd-cat-lunch.png" alt="" class="img img-responsive img-full"></div>
+                                <div class="item"><img src="{{asset('assets/images/product/pd-cat-lunch.png')}}" alt="" class="img img-responsive img-full"></div>
                               </div>
                             </div>
                             <div class="col-md-7 col-sm-12">

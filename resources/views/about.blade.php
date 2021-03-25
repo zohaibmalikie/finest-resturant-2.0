@@ -27,25 +27,25 @@
                   <div class="main-slider">
                     <div class="slides">
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2000</span></div><img src="assets/images/timeline/timeline-1.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2000</span></div><img src="{{asset('assets/images/timeline/timeline-1.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2002</span></div><img src="assets/images/timeline/timeline-2.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2002</span></div><img src="{{asset('assets/images/timeline/timeline-2.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2004</span></div><img src="assets/images/timeline/timeline-3.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2004</span></div><img src="{{asset('assets/images/timeline/timeline-3.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2008</span></div><img src="assets/images/timeline/timeline-4.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2008</span></div><img src="{{asset('assets/images/timeline/timeline-4.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2012</span></div><img src="assets/images/timeline/timeline-5.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2012</span></div><img src="{{asset('assets/images/timeline/timeline-5.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2016</span></div><img src="assets/images/timeline/timeline-6.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2016</span></div><img src="{{asset('assets/images/timeline/timeline-6.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                       <div class="timeline-item item swin-transition">
-                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2017</span></div><img src="assets/images/timeline/timeline-7.jpg" alt="fooday" class="img img-responsive">
+                        <div class="timeline-item-wrap"><span class="timeline-year swin-transition">2017</span></div><img src="{{asset('assets/images/timeline/timeline-7.jpg')}}" alt="fooday" class="img img-responsive">
                       </div>
                     </div>
                   </div>
@@ -106,7 +106,7 @@
               </div>
             </section>
             <section data-bottom-top="background-position: 50% 50px;" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -150px;" class="ab-testimonial-section padding-top-100 padding-bottom-100">
-              <div class="container"><img src="assets/images/background/ab_team_01.png" alt="" class="img-left img-bg img-deco img-responsive">
+              <div class="container"><img src="{{asset('assets/images/background/ab_team_01.png')}}" alt="" class="img-left img-bg img-deco img-responsive">
                 <div class="row">
                   <div class="col-md-8 col-md-offset-4">
                     <div class="swin-sc swin-sc-testimonial style-2 option-2">
@@ -115,25 +115,25 @@
                           <div class="testi-item item"><i class="testi-icon fa fa-quote-left"></i>
                             <div class="testi-content">
                               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-                            </div><img src="assets/images/testi/testi-signal.png" alt="" class="testi-signal">
+                            </div><img src="{{asset('assets/images/testi/testi-signal.png')}}" alt="" class="testi-signal">
                             <div class="testi-info"><span class="name">Timothy Doe</span> <span class="position">Customer</span></div>
                           </div>
                           <div class="testi-item item"><i class="testi-icon fa fa-quote-left"></i>
                             <div class="testi-content">
                               <p>Ut enim ad minim veniam, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-                            </div><img src="assets/images/testi/testi-signal.png" alt="" class="testi-signal">
+                            </div><img src="{{asset('assets/images/testi/testi-signal.png')}}" alt="" class="testi-signal">
                             <div class="testi-info"><span class="name">Sarah	Ruiz</span> <span class="position">Customer</span></div>
                           </div>
                           <div class="testi-item item"><i class="testi-icon fa fa-quote-left"></i>
                             <div class="testi-content">
                               <p>Consectetur adipisicing elit, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-                            </div><img src="assets/images/testi/testi-signal.png" alt="" class="testi-signal">
+                            </div><img src="{{asset('assets/images/testi/testi-signal.png')}}" alt="" class="testi-signal">
                             <div class="testi-info"><span class="name">Tracey Lewis</span> <span class="position">Customer</span></div>
                           </div>
                           <div class="testi-item item"><i class="testi-icon fa fa-quote-left"></i>
                             <div class="testi-content">
                               <p>Quis nostrud exercitation ullamco laboris, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-                            </div><img src="assets/images/testi/testi-signal.png" alt="" class="testi-signal">
+                            </div><img src="{{asset('assets/images/testi/testi-signal.png')}}" alt="" class="testi-signal">
                             <div class="testi-info"><span class="name">Jamie	Erickson</span> <span class="position">Customer</span></div>
                           </div>
                         </div>
@@ -153,36 +153,36 @@
                     </div>
                     <div class="row">
                       <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="swin-sc sc-featured-box item wow fadeInUp"><img src="assets/images/featured-box-bg-1.jpg" alt="fooday" class="box-bg">
+                        <div class="swin-sc sc-featured-box item wow fadeInUp"><img src="{{asset('assets/images/featured-box-bg-1.jpg')}}" alt="fooday" class="box-bg">
                           <div class="box-inner">
                             <h4 class="box-title">FRESH MENU</h4>
                             <div class="box-content">Lorem ipsum dolor sit amet, consec adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</div>
                             <div class="btn-wrap text-center"><a href="javascript:void(0)" class="btn swin-btn"><span>Read More</span></a></div>
-                            <div class="showcase"><img src="assets/images/feature-box-bg.jpg" alt="" class="img-responsive img-showcase">
+                            <div class="showcase"><img src="{{asset('assets/images/feature-box-bg.jpg')}}" alt="" class="img-responsive img-showcase">
                               <div class="title-showcase">FRESH MENU</div>
                             </div>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div data-wow-delay="0.5s" class="swin-sc sc-featured-box item wow fadeInUp"><img src="assets/images/featured-box-bg-1.jpg" alt="fooday" class="box-bg">
+                        <div data-wow-delay="0.5s" class="swin-sc sc-featured-box item wow fadeInUp"><img src="{{asset('assets/images/featured-box-bg-1.jpg')}}" alt="fooday" class="box-bg">
                           <div class="box-inner">
                             <h4 class="box-title">VARIOUS DRINK</h4>
                             <div class="box-content">Lorem ipsum dolor sit amet, consec adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</div>
                             <div class="btn-wrap text-center"><a href="javascript:void(0)" class="btn swin-btn"><span>Read More</span></a></div>
-                            <div class="showcase"><img src="assets/images/feature-box-bg-2.jpg" alt="" class="img-responsive img-showcase">
+                            <div class="showcase"><img src="{{asset('assets/images/feature-box-bg-2.jpg')}}" alt="" class="img-responsive img-showcase">
                               <div class="title-showcase">VARIOUS DRINK</div>
                             </div>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div data-wow-delay="1s" class="swin-sc sc-featured-box item wow fadeInUp"><img src="assets/images/featured-box-bg-1.jpg" alt="fooday" class="box-bg">
+                        <div data-wow-delay="1s" class="swin-sc sc-featured-box item wow fadeInUp"><img src="{{asset('assets/images/featured-box-bg-1.jpg')}}" alt="fooday" class="box-bg">
                           <div class="box-inner">
                             <h4 class="box-title">EXCLUSIVE DISHES</h4>
                             <div class="box-content">Lorem ipsum dolor sit amet, consec adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</div>
                             <div class="btn-wrap text-center"><a href="javascript:void(0)" class="btn swin-btn"><span>Read More</span></a></div>
-                            <div class="showcase"><img src="assets/images/feature-box-bg-3.jpg" alt="" class="img-responsive img-showcase">
+                            <div class="showcase"><img src="{{asset('assets/images/feature-box-bg-3.jpg')}}" alt="" class="img-responsive img-showcase">
                               <div class="title-showcase">EXCLUSIVE DISHES</div>
                             </div>
                           </div>
@@ -217,19 +217,19 @@
                   <div class="row">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                       <div class="counter-info item"><span data-from="50" data-to="103" data-speed="3000" data-refresh-interval="5" class="number timer">0</span><span class="caption">/dishes</span></div>
-                      <div class="counter-avatar"><img src="assets/images/counter-1.png" alt="fooday" class="img img-responsive"></div>
+                      <div class="counter-avatar"><img src="{{asset('assets/images/counter-1.png')}}" alt="fooday" class="img img-responsive"></div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                       <div class="counter-info item"><span data-from="2300" data-to="2389" data-speed="3000" data-refresh-interval="5" class="number timer">0</span><span class="caption">/customers</span></div>
-                      <div class="counter-avatar"><img src="assets/images/counter-2.png" alt="fooday" class="img img-responsive"></div>
+                      <div class="counter-avatar"><img src="{{asset('assets/images/counter-2.png')}}" alt="fooday" class="img img-responsive"></div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                       <div class="counter-info item"><span data-from="1" data-to="20" data-speed="3000" data-refresh-interval="5" class="number timer">0</span><span class="caption">/awards</span></div>
-                      <div class="counter-avatar"><img src="assets/images/counter-3.png" alt="fooday" class="img img-responsive"></div>
+                      <div class="counter-avatar"><img src="{{asset('assets/images/counter-3.png')}}" alt="fooday" class="img img-responsive"></div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                       <div class="counter-info item"><span data-from="2500" data-to="2589" data-speed="3000" data-refresh-interval="5" class="number timer">0</span><span class="caption">/working hours</span></div>
-                      <div class="counter-avatar"><img src="assets/images/counter-4.png" alt="fooday" class="img img-responsive"></div>
+                      <div class="counter-avatar"><img src="{{asset('assets/images/counter-4.png')}}" alt="fooday" class="img img-responsive"></div>
                     </div>
                   </div>
                 </div>

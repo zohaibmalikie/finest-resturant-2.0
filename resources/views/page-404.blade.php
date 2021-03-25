@@ -42,7 +42,7 @@
   <div class="wrapper-content">
       <div class="page-container">
         <div class="page-404 section-full-screen">
-          <div class="content-wrapper"><img src="assets/images/404/image-main.png" alt="fooday" class="img-main img-responsive">
+          <div class="content-wrapper"><img src="{{asset('assets/images/404/image-main.png')}}" alt="fooday" class="img-main img-responsive">
             <div class="title">OOOP... The Page Not Found</div>
             <div class="bt-wrapper"><a href="contact.html" class="swin-btn center"> <span>Get Help</span></a><a href="index.html" class="swin-btn center btn-transparent btn-right"> <span>Back Home</span></a></div>
           </div>

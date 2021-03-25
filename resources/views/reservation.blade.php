@@ -51,7 +51,7 @@
                   </div>
                 </div>
               </div>
-              <div class="header-logo"><a href="index.html" class="logo"><img src="assets/images/logo.png" alt="fooday" class="logo-img"></a></div>
+              <div class="header-logo"><a href="index.html" class="logo"><img src="{{asset('assets/images/logo.png')}}" alt="fooday" class="logo-img"></a></div>
               <nav id="main-nav-offcanvas" class="main-nav-wrapper">
                 <div class="close-offcanvas-wrapper"><span class="close-offcanvas">x</span></div>
                 <div class="main-nav">
@@ -191,7 +191,7 @@
                     </form>
                   </div>
                 </div>
-                <div class="section-deco"><img src="assets/images/pages/reservation-showcase.png" alt="fooday" class="img-deco"></div>
+                <div class="section-deco"><img src="{{asset('assets/images/pages/reservation-showcase.png')}}" alt="fooday" class="img-deco"></div>
               </div>
             </div>
           </section>
@@ -250,10 +250,10 @@
                           <div class="event-date"><span class="day">12</span><span class="month">Jun</span></div>
                           <div class="event-title"><a href="#" class="swin-transition">Hong Kong Tasty Food Cooking Event</a></div>
                         </div>
-                        <div class="event-featured-img"><img src="assets/images/event/event-01.jpg" alt="fooday" class="img img-responsive"></div>
+                        <div class="event-featured-img"><img src="{{asset('assets/images/event/event-01.jpg')}}" alt="fooday" class="img img-responsive"></div>
                         <div class="event-countdown swin-transition">
                           <div class="event-countdown-inner">
-                            <div class="event-img"><img src="assets/images/event/event-01.jpg" alt=""></div>
+                            <div class="event-img"><img src="{{asset('assets/images/event/event-01.jpg')}}" alt=""></div>
                             <ul class="event-countdown-content list-inline nav-justified">
                               <li><span class="num">03</span><span class="cap">/days</span></li>
                               <li><span class="num">50</span><span class="cap">/foods</span></li>
@@ -271,10 +271,10 @@
                           <div class="event-date"><span class="day">12</span><span class="month">Jun</span></div>
                           <div class="event-title"><a href="#" class="swin-transition">Regional Cuisine Down Home Cooking</a></div>
                         </div>
-                        <div class="event-featured-img"><img src="assets/images/event/event-02.jpg" alt="fooday" class="img img-responsive"></div>
+                        <div class="event-featured-img"><img src="{{asset('assets/images/event/event-02.jpg')}}" alt="fooday" class="img img-responsive"></div>
                         <div class="event-countdown swin-transition">
                           <div class="event-countdown-inner">
-                            <div class="event-img"><img src="assets/images/event/event-01.jpg" alt=""></div>
+                            <div class="event-img"><img src="{{asset('assets/images/event/event-01.jpg')}}" alt=""></div>
                             <ul class="event-countdown-content list-inline nav-justified">
                               <li><span class="num">02</span><span class="cap">/days</span></li>
                               <li><span class="num">20</span><span class="cap">/foods</span></li>
@@ -291,7 +291,7 @@
           </section>
         </div>
         <footer>
-          <div class="subscribe-section"><img src="assets/images/background/bg5.png" alt="" class="img-subscribe">
+          <div class="subscribe-section"><img src="{{asset('assets/images/background/bg5.png')}}" alt="" class="img-subscribe">
             <div class="container">
               <div class="subscribe-wrapper">
                 <div class="row">
@@ -320,7 +320,7 @@
                   <div class="ft-widget-area">
                     <div class="ft-area1">
                       <div class="swin-wget swin-wget-about">
-                        <div class="clearfix"><a class="wget-logo"><img src="assets/images/logo-ft.png" alt="" class="img img-responsive"></a>
+                        <div class="clearfix"><a class="wget-logo"><img src="{{asset('assets/images/logo-ft.png')}}" alt="" class="img img-responsive"></a>
                           <ul class="socials socials-about list-unstyled list-inline">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
